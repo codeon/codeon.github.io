@@ -13,8 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Life, Code, Philosophy
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -41,3 +40,49 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+tools:
+  standards:      "HTML, SCSS, Jekyll"
+  software:       "git"
+
+# Open Graph customization
+opengraph:
+  locale:           en_US
+
+# Links to include in top navigation
+# For external links add external: true
+links:
+  - title: About
+    url: /about
+  - title: Github
+    url: https://github.com/codeon
+    external: true
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/New_York
+future:      true
+# highlighter: pygments
+markdown:    kramdown
+
+# kramdown:
+#   auto_ids: true
+#   footnote_nr: 1
+#   entity_output: as_char
+#   toc_levels: 1..6
+#   enable_coderay: false
+
+#   coderay:
+#     coderay_line_numbers:
+#     coderay_line_numbers_start: 1
+#     coderay_tab_width: 4
+#     coderay_bold_every: 10
+#     coderay_css: class
+
+sass:
+    style: :compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+permalink:   /:categories/:title
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp"]
