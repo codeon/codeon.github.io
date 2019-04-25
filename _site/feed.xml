@@ -1,3 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-24T23:45:56-04:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Life, Code, Philosophy</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome !</title><link href="http://localhost:4000/codeon/first/post/welcome-to-my-blog" rel="alternate" type="text/html" title="Welcome !" /><published>2019-04-24T23:11:03-04:00</published><updated>2019-04-24T23:11:03-04:00</updated><id>http://localhost:4000/codeon/first/post/welcome-to-my-blog</id><content type="html" xml:base="http://localhost:4000/codeon/first/post/welcome-to-my-blog">&lt;p&gt;After a long time of procrastinating, here I am, starting my blog.&lt;/p&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><summary type="html">After a long time of procrastinating, here I am, starting my blog.</summary></entry></feed>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Ka Banda</title>
+    <description>Life, Code, Poetry</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 25 Apr 2019 11:28:23 +0530</pubDate>
+    <lastBuildDate>Thu, 25 Apr 2019 11:28:23 +0530</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Sharding in MongoDB</title>
+        <description>&lt;p class=&quot;music-read&quot;&gt;&lt;a href=&quot;spotify:track:4DAZ8UYNpWVIV46aLkN2Qp&quot;&gt;Music for reading(spotify)&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/raw.gif&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;sharding--why-&quot;&gt;Sharding ? why ?&lt;/h2&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime neque, consequuntur quia alias, modi commodi.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate rem ducimus dolores repellat itaque perferendis corporis ex dicta doloremque optio harum excepturi, ut, praesentium asperiores! Voluptatum amet perspiciatis iusto, fugiat!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, libero quia placeat necessitatibus culpa mollitia, illum, quam sed ratione ad eaque suscipit consectetur itaque quasi aperiam. Quaerat, nihil voluptas...</description>
+        <pubDate>Mon, 12 Sep 2016 05:36:31 +0530</pubDate>
+        <link>http://localhost:4000/sharding/</link>
+        <guid isPermaLink="true">http://localhost:4000/sharding/</guid>
+        
+        <category>mongodb</category>
+        
+        
+        <category>Learn Jekyll</category>
+        
+      </item>
+    
+      <item>
+        <title>Jack of all trades, master of some?</title>
+        <description>&lt;!-- &lt;p class=&quot;music-read&quot;&gt;&lt;a href=&quot;spotify:track:4DAZ8UYNpWVIV46aLkN2Qp&quot;&gt;Music for reading(spotify)&lt;/a&gt;&lt;/p&gt; --&gt; &lt;p&gt;&lt;img src=&quot;https://media.licdn.com/dms/image/C4E12AQHHxPCPp1XaYQ/article-cover_image-shrink_423_752/0?e=1561593600&amp;amp;v=beta&amp;amp;t=bAON8wFwBM434nruNBjff3mVkf6YiTQcMiemFuBeEOw&quot; /&gt;&lt;/p&gt; &lt;p&gt;In Jan 2015, I joined qplum as a full stack engineer. Like Johann Wolfgang von Goethe said, “Knowing is not enough; we must apply. Willing is not enough; we must do.”, I have got innumerable opportunities to learn and apply since then. From hardening web server security to building background job processing architectures to writing responsive web views, I have had a chance to do them all.&lt;/p&gt; &lt;p&gt;But what does it mean to learn all this, if I couldn’t master anything. Did I just become a jack of all trades?&lt;/p&gt;...</description>
+        <pubDate>Sat, 12 Mar 2016 05:36:31 +0530</pubDate>
+        <link>http://localhost:4000/jack-of-all/</link>
+        <guid isPermaLink="true">http://localhost:4000/jack-of-all/</guid>
+        
+        <category>mongodb</category>
+        
+        
+        <category>Thoughts</category>
+        
+        <category>Engineering</category>
+        
+      </item>
+    
+  </channel>
+</rss>
