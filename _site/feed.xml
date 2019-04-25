@@ -5,23 +5,9 @@
     <description>Life, Code, Poetry</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Apr 2019 11:28:23 +0530</pubDate>
-    <lastBuildDate>Thu, 25 Apr 2019 11:28:23 +0530</lastBuildDate>
+    <pubDate>Thu, 25 Apr 2019 11:32:22 +0530</pubDate>
+    <lastBuildDate>Thu, 25 Apr 2019 11:32:22 +0530</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title>Sharding in MongoDB</title>
-        <description>&lt;p class=&quot;music-read&quot;&gt;&lt;a href=&quot;spotify:track:4DAZ8UYNpWVIV46aLkN2Qp&quot;&gt;Music for reading(spotify)&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;img src=&quot;http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2016/02/raw.gif&quot; /&gt;&lt;/p&gt; &lt;h2 id=&quot;sharding--why-&quot;&gt;Sharding ? why ?&lt;/h2&gt; &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste quas, esse laudantium quis ipsa consequuntur iure atque! Necessitatibus quam quidem illum, corrupti molestiae, maxime neque, consequuntur quia alias, modi commodi.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate rem ducimus dolores repellat itaque perferendis corporis ex dicta doloremque optio harum excepturi, ut, praesentium asperiores! Voluptatum amet perspiciatis iusto, fugiat!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, libero quia placeat necessitatibus culpa mollitia, illum, quam sed ratione ad eaque suscipit consectetur itaque quasi aperiam. Quaerat, nihil voluptas...</description>
-        <pubDate>Mon, 12 Sep 2016 05:36:31 +0530</pubDate>
-        <link>http://localhost:4000/sharding/</link>
-        <guid isPermaLink="true">http://localhost:4000/sharding/</guid>
-        
-        <category>mongodb</category>
-        
-        
-        <category>Learn Jekyll</category>
-        
-      </item>
     
       <item>
         <title>Jack of all trades, master of some?</title>
